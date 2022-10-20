@@ -1,0 +1,80 @@
+{
+    "Offset": 1,
+    "Count": 1,
+    "Total": 1465,
+    "Results": [
+        {
+            "AlbumId": 95506016,
+            "Name": "Urban Hymns [Remastered 2016]",
+            "Upc": "00602557734287",
+            "Artists": [
+                {
+                    "ArtistId": 1052,
+                    "Name": "The Verve",
+                    "Translations": null
+                }
+            ],
+            "ArtistTranslations": [],
+            "AlbumType": "Album",
+            "PrimaryRelease": {
+                "ReleaseId": 95506016,
+                "AlbumId": 95506016,
+                "Artists": [
+                    {
+                        "ArtistId": 1052,
+                        "Name": "The Verve",
+                        "Translations": null
+                    }
+                ],
+                "Name": "Urban Hymns [Remastered 2016]",
+                "IsExplicit": false,
+                "NumberOfVolumes": 1,
+                "TrackIds": [
+                    95506017,
+                    95506018,
+                    95506019,
+                    95506020,
+                    95506021,
+                    95506022,
+                    95506023,
+                    95506024,
+                    95506025,
+                    95506026,
+                    95506027,
+                    95506028,
+                    95506029
+                ],
+                "Duration": 4558,
+                "Volumes": [
+                    {
+                        "FirstTrackIndex": 0,
+                        "LastTrackIndex": 0
+                    }
+                ],
+                "Image": "https://d16npyvi7pcxgr.cloudfront.net/images1004/100/4_0/060/255/773/428/7/104_1004_00602557734287_20220222_0241.jpg",
+                "Label": {
+                    "LabelId": "3952",
+                    "Name": "UMC (Universal Music Catalogue)"
+                },
+                "ReleaseDate": "2017-09-01T00:00:00Z",
+                "OriginalReleaseDate": "2017-09-01T00:00:00Z",
+                "AllowDownload": true,
+                "AllowStream": true,
+                "ContentLanguage": "ENG",
+                "Copyright": null,
+                "Translations": [
+                    {
+                        "Language": "EN",
+                        "Value": "Urban Hymns [Remastered 2016]"
+                    }
+                ],
+                "ArtistTranslations": []
+            },
+            "PrimaryReleaseId": 95506016,
+            "ReleaseIds": [
+                95506016
+            ],
+            "Translations": []
+        }
+    ]
+}
